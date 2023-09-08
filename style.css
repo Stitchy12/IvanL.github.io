@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 20px;
     background: url(background.png);
+    background-size: cover;
 }
 
 a {
@@ -61,7 +62,7 @@ a:hover
 
 .center img
 {
-    max-height: 200px;
+    max-height: 300px;
     transition: transform 0.3s;
 }
 
